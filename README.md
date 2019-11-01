@@ -13,10 +13,11 @@ _ _This is My Main Repositoy_ _
 
 ***I'm an Undergraduate Student, Doing BBA Program from PAF-KIET***
 **Doing Artificial Intelligence For my Interest From PIAIC, as It's My 2nd Quarter**
+
 ###My Courses
->CIT
->Computer Accounting
->MS Office
+> CIT
+> Computer Accounting
+> MS Office
 
 ####International Certification
 - Microsoft Excel
